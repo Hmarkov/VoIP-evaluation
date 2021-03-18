@@ -141,8 +141,7 @@ public class Sender implements Runnable{
     }
 
     /*
-     * Interleaves a Vector containing Datagram Packets 90 degrees
-     * anti-clockwise
+     * Interleaves a Vector containing Datagram Packets 90 degrees anti-clockwise
      * @param d size of vector
      * @param unInterleaved vector to interleave
      * @return an interleaved vector.
